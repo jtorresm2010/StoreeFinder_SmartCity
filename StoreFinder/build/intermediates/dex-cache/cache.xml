@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\classes-bf3721739c4a0f9846cc08db848fdba42a2642f5.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\Platform\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\support-v4-19.1.0-02c2a681f40d37eac679036875de95eac66290ba.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="23d4842074b95d6115b5f49dc3f9cd8fbb009a76">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-async-4.0.2-1fbaea59b6e46d5550e87dfb20a7dd574629c86d.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-19ff097536592c57fa2ae1b6214f5826e6cbe760.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\httpmime-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="54ffde537682aea984c22fbcf0106f21397c5f9b">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpmime-4.3.4-fbcf417257dbc87d358464b62b51067c45914ddd.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\exploded-aar\StoreFinder\facebookSDK\unspecified\libs\bolts.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\bolts-785d6fe8784283852e6303209792bf991013cd5d.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\twitter4j-media-support-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="96b1b89e9d7e95d040df13d638d1f237b9cf95f8">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-media-support-4.0.2-5e5722caa7483f10f67437e922084c41ebff7ee2.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-f531274875e175ba320cecaf2dfd6822a83e35f5.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-1bd8edd65df701d8b65a63864b1b30280b355abf.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\exploded-aar\StoreFinder\facebookSDK\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="80d9a5312ec59138b3b26a1a8e86e2411c48d45a">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\classes-c6f708882e4c79ff54fd643fed2ea16e30ae6d1a.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0faef4253b4ba28f47d7bd56a1d438f79ab04e92">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources-2d76b838e54a3e84bd555bf2896d1c3d56268fa2.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-core-4.0.2-6079c9eb0ddc684e51967fa861a7528c6017b18a.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\httpcore-4.3.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpcore-4.3.2-4907058f0288586b6d3c971b5067b13092a72cf7.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\twitter4j-stream-4.0.2-19934c391443b3581c32305fc46da7ec10475678.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-0c457a5845ab94c7bba71196e8501437acda1f03.jar" />
+    </item>
+    <item
+        jar="D:\Proyectos Android\StoreFinder\storeFinder\libs\httpclient-4.3.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a9a1fef2faefed639ee0d0fba5b3b8e4eb2ff2d8">
+        <dex dex="D:\Proyectos Android\StoreFinder\storeFinder\build\intermediates\pre-dexed\debug\httpclient-4.3.4-7fc1eb37a6667d8416f1f6e96012b8ebcc148a03.jar" />
+    </item>
+
+</items>
